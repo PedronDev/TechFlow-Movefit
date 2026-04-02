@@ -1,27 +1,19 @@
 # TechFlow-Movefit
-Sistema completo Movefit
 
-O Cliente é uma marca de produtos fitness (equipamentos, roupas, suplementos). 
+Sistema completo Movefit.
 
-Por isso solicitou o desenvolvimento de um Sistema completo para sua marca. 
+## Estrutura inicial do repositório
 
-O Cliente precisa de um Sistema de Gestão e uma estrutura para E-commerce com: 
+Foi criada uma base inicial em `movefit-system/` com separação entre frontend e backend e documentação da arquitetura.
 
-Loja online :
+```text
+/movefit-system
+  /docs
+  /frontend
+  /backend
+  README.md
+```
 
- - Listagem de produtos
- - Carrinho de compras
- - Checkout (simulado, sem pagamento real por enquanto)
- - Cadastro/login de usuários
-
-Painel administrativo :
-
-- CRUD de produtos
-- Controle de estoque
-- Visualização de pedidos
-- Dashboard simples (vendas, produtos mais vendidos)
-
-Área do cliente : 
-
- - Histórico de pedidos
- - Atualização de dados
+Consulte:
+- `movefit-system/README.md`
+- `movefit-system/docs/architecture.md`
