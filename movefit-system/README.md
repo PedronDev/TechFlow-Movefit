@@ -25,10 +25,11 @@ Estrutura inicial do repositório para o sistema Movefit, com separação clara 
   /backend
   README.md
 ```
-
-## Próximos passos sugeridos
-
-1. Definir stack do frontend (ex.: React + Vite/Next.js).
-2. Definir stack do backend (ex.: Node.js + Express/Nest).
-3. Modelar recursos REST iniciais (produtos, usuários, pedidos, estoque).
-4. Adicionar documentação técnica em `/docs`.
+Stacks
+ FRONTEND
+ - HTML, CSS, JS (inicial)
+ - Depois: React + Vite
+ BACKEND
+ - Node.js + Express
+ BANCO
+ - PostgreSQL
