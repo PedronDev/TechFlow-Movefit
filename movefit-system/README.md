@@ -29,7 +29,9 @@ Stacks
  FRONTEND
  - HTML, CSS, JS (inicial)
  - Depois: React + Vite
+
  BACKEND
  - Node.js + Express
+
  BANCO
  - PostgreSQL
